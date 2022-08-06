@@ -1,0 +1,22 @@
+{
+  "name": "test-rep",
+  "version": "1.0.0",
+  "description": "Test repo for Marking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylor-wagstaff/Test-Rep.git"
+  },
+  "author": "Taylor Wagstaff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taylor-wagstaff/Test-Rep/issues"
+  },
+  "homepage": "https://github.com/taylor-wagstaff/Test-Rep#readme",
+  "dependencies": {
+    "sass": "^1.54.3"
+  }
+}
